@@ -115,5 +115,5 @@ Github renders notebooks automatically in the browser, but not (for some reason)
     [NbConvertApp] Converting notebook README.ipynb to markdown
     [NbConvertApp] Support files will be in README_files/
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 2557 bytes to README.md
+    [NbConvertApp] Writing 2553 bytes to README.md
 
