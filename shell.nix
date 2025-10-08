@@ -1,7 +1,7 @@
 with import <nixpkgs> { };
 mkShell {
   name = "env";
-  buildInputs = [ figlet python3 python3Packages.numpy python3Packages.notebook python3Packages.nbconvert ];
+  buildInputs = [ figlet python3 python3Packages.matplotlib python3Packages.numpy python3Packages.notebook python3Packages.nbconvert ];
   shellHook = ''
     figlet ":notebook:"
   '';
